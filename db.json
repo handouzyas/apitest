@@ -1,37 +1,11 @@
-[
- {
-   "Xlongitude": "2.605804",
-   "Ylatitude": "49.005505",
-   "puiss_max": "3,7kW",
-   "type_prise": "T2 - E/F",
-   "observations": "Accès libre sans badge"
- },
- {
-   "Xlongitude": "2.576883",
-   "Ylatitude": "49.004442",
-   "puiss_max": "3,7kW",
-   "type_prise": "T2 - E/F",
-   "observations": "Accès libre sans badge"
- },
- {
-   "Xlongitude": "2.605804",
-   "Ylatitude": "49.005505",
-   "puiss_max": "3,7kW",
-   "type_prise": "T2 - E/F",
-   "observations": "Accès libre sans badge"
- },
- {
-   "Xlongitude": "2.566858",
-   "Ylatitude": "49.003828",
-   "puiss_max": "3,7kW",
-   "type_prise": "T2 - E/F",
-   "observations": "Accès libre sans badge"
- },
- {
-   "Xlongitude": "2.576883",
-   "Ylatitude": "49.004442",
-   "puiss_max": "3,7kW",
-   "type_prise": "T2 - E/F",
-   "observations": "Accès libre sans badge"
- }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
